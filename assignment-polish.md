@@ -17,4 +17,4 @@ Termin wykonania: *ostatnie zajęcia projektowe*
 - fakt wstrzymywania gąsienicy należy zobrazować;
 - kierunek poruszania się gąsienicy jest ustalony.
 
-![Obraz przedstawiający trasę oraz ustawienie gąsienic](assigment-picture.png)
+![Obraz przedstawiający trasę oraz ustawienie gąsienic](assignment-picture.png)
