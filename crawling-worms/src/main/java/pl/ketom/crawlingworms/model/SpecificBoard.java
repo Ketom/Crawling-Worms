@@ -1,4 +1,4 @@
-package model;
+package pl.ketom.crawlingworms.model;
 
 import java.util.function.Consumer;
 

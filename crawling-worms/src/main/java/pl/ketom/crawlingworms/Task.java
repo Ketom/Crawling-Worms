@@ -1,4 +1,6 @@
-import model.*;
+package pl.ketom.crawlingworms;
+
+import pl.ketom.crawlingworms.model.*;
 
 import java.util.function.Consumer;
 

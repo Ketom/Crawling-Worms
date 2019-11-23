@@ -1,3 +1,5 @@
+package pl.ketom.crawlingworms;
+
 import javafx.application.Platform;
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
@@ -6,11 +8,11 @@ import javafx.scene.control.TextField;
 import javafx.scene.control.ToggleButton;
 import javafx.scene.layout.StackPane;
 import javafx.scene.paint.Color;
-import model.Path;
-import model.Worm;
-import panes.BoardPane;
-import panes.PathPane;
-import panes.WormPane;
+import pl.ketom.crawlingworms.model.Path;
+import pl.ketom.crawlingworms.model.Worm;
+import pl.ketom.crawlingworms.panes.BoardPane;
+import pl.ketom.crawlingworms.panes.PathPane;
+import pl.ketom.crawlingworms.panes.WormPane;
 
 public class Controller {
     @FXML

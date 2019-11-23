@@ -1,4 +1,4 @@
-package model;
+package pl.ketom.crawlingworms.model;
 
 /**
  * A point representing a location in (x, y) coordinate space, with integer

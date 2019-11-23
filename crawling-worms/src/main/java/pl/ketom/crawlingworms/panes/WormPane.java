@@ -1,4 +1,4 @@
-package panes;
+package pl.ketom.crawlingworms.panes;
 
 import javafx.application.Platform;
 import javafx.scene.Node;
@@ -9,8 +9,8 @@ import javafx.scene.shape.Rectangle;
 import javafx.scene.text.Font;
 import javafx.scene.text.FontWeight;
 import javafx.scene.text.Text;
-import model.Point;
-import model.Worm;
+import pl.ketom.crawlingworms.model.Point;
+import pl.ketom.crawlingworms.model.Worm;
 
 import java.util.LinkedList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package panes;
+package pl.ketom.crawlingworms.panes;
 
 import javafx.application.Platform;
 import javafx.scene.Node;
@@ -6,9 +6,9 @@ import javafx.scene.layout.Pane;
 import javafx.scene.paint.Color;
 import javafx.scene.shape.Polygon;
 import javafx.scene.shape.Rectangle;
-import model.Direction;
-import model.Path;
-import model.Point;
+import pl.ketom.crawlingworms.model.Direction;
+import pl.ketom.crawlingworms.model.Path;
+import pl.ketom.crawlingworms.model.Point;
 
 import java.util.LinkedList;
 import java.util.List;
